@@ -9,7 +9,7 @@ sections:
     padding_bottom: medium
     background_color: none
     actions:
-      - label: lorem-ipsum
+      - label: Whatsapp
         url: '#'
         style: primary
         has_icon: false
