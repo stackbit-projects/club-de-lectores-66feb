@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Contáctame
-    subtitle: Fill out the form below and I will get in touch within 1 business day.
+    subtitle: Para más información deja tus datos en el Formulario
     align: center
     padding_top: medium
     padding_bottom: medium
